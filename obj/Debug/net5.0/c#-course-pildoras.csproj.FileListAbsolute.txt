@@ -1,0 +1,16 @@
+/home/fernando/Documentos/PROGRAMACION/C#/c#-course-pildoras/bin/Debug/net5.0/c#-course-pildoras
+/home/fernando/Documentos/PROGRAMACION/C#/c#-course-pildoras/bin/Debug/net5.0/c#-course-pildoras.deps.json
+/home/fernando/Documentos/PROGRAMACION/C#/c#-course-pildoras/bin/Debug/net5.0/c#-course-pildoras.runtimeconfig.json
+/home/fernando/Documentos/PROGRAMACION/C#/c#-course-pildoras/bin/Debug/net5.0/c#-course-pildoras.runtimeconfig.dev.json
+/home/fernando/Documentos/PROGRAMACION/C#/c#-course-pildoras/bin/Debug/net5.0/c#-course-pildoras.dll
+/home/fernando/Documentos/PROGRAMACION/C#/c#-course-pildoras/bin/Debug/net5.0/ref/c#-course-pildoras.dll
+/home/fernando/Documentos/PROGRAMACION/C#/c#-course-pildoras/bin/Debug/net5.0/c#-course-pildoras.pdb
+/home/fernando/Documentos/PROGRAMACION/C#/c#-course-pildoras/obj/Debug/net5.0/c#-course-pildoras.csproj.AssemblyReference.cache
+/home/fernando/Documentos/PROGRAMACION/C#/c#-course-pildoras/obj/Debug/net5.0/c#-course-pildoras.GeneratedMSBuildEditorConfig.editorconfig
+/home/fernando/Documentos/PROGRAMACION/C#/c#-course-pildoras/obj/Debug/net5.0/c#-course-pildoras.AssemblyInfoInputs.cache
+/home/fernando/Documentos/PROGRAMACION/C#/c#-course-pildoras/obj/Debug/net5.0/c#-course-pildoras.AssemblyInfo.cs
+/home/fernando/Documentos/PROGRAMACION/C#/c#-course-pildoras/obj/Debug/net5.0/c#-course-pildoras.csproj.CoreCompileInputs.cache
+/home/fernando/Documentos/PROGRAMACION/C#/c#-course-pildoras/obj/Debug/net5.0/c#-course-pildoras.dll
+/home/fernando/Documentos/PROGRAMACION/C#/c#-course-pildoras/obj/Debug/net5.0/ref/c#-course-pildoras.dll
+/home/fernando/Documentos/PROGRAMACION/C#/c#-course-pildoras/obj/Debug/net5.0/c#-course-pildoras.pdb
+/home/fernando/Documentos/PROGRAMACION/C#/c#-course-pildoras/obj/Debug/net5.0/c#-course-pildoras.genruntimeconfig.cache
